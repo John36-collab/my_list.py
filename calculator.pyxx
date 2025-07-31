@@ -1,8 +1,12 @@
+x/
+# Simple calculator program
+print("Simple Calculator")
+print("Operations: + (addition), - (subtraction), * (multiplication), / (division)")
 
+# Get user input
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
-oo
-peration = input("Enter operation (+, -, *, /): ")
+operation = input("Enter operation (+, -, *, /): ")
 
 # Perform calculation based on operation
 if operation == '+':

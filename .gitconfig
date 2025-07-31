@@ -1,0 +1,8 @@
+[user]
+	name = John36-collab
+	email = cnwafor435@gmail.com
+[safe]
+	directory = /storage/emulated/0/Download
+	directory = /storage/emulated/0/Download
+[credential]
+	helper = store
