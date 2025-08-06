@@ -110,3 +110,10 @@ ls
 git init
 rm
 git rm
+touch index.py
+clear
+~~~~~
+apt update && apt upgrade
+source ~/.bashrc
+exit
+exit
